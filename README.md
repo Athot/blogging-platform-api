@@ -36,4 +36,4 @@ https://github.com/Athot/personal-blog
 
 ## Project Page Url
 
-https://github.com/Athot/personal-blog
+https://roadmap.sh/projects/blogging-platform-api
